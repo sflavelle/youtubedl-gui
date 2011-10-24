@@ -1,0 +1,13 @@
+YouTubeDL-GUI is a simple interface to the youtube-dl Python script, created using AutoHotKey. Most of the GUI was created with SmartGUI Creator 4.0.
+
+This is also a first scripting project intended for use by the public. It will be improved upon as more is learned about the AHK scripting commands.
+
+FEATURES
+Only a few basic features are implemented, such as:
+* Choosing an output directory
+* Filename templates
+* "Start Download" launches youtube-dl with the selected parameters
+
+PREREQUISITES
+Python 2.7 for Windows (this will be eliminated as a requirement soon)
+AutoHotKey
